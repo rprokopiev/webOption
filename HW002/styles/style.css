@@ -1,0 +1,16 @@
+body {
+    background-color: #c6cbcd;
+}
+
+h1 {
+    color: brown;
+}
+
+h3 {
+    color: brown;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+}
